@@ -1,11 +1,11 @@
 Hi there 👋👨‍💻
 ========================
 
-<img src="" alt="Chamidu Supeshala">
+<img src="img/Chamidu Supeshala - Cover.jpg?raw=true" alt="Chamidu Supeshala">
 
 I'm a software development engineer with extensive experience in Java, JavaScript and Python technology stacks. I enjoy writing robust and more scalable code, following the industrial best practices.
 
-Find me around the web 🌎 <img align="left" width="150" height="150" src="">
+Find me around the web 🌎
 -------------------------
 - Writing tech articles on [Medium](https://medium.com/@chamidusupeshala "Chamidu Supeshala, A technical writer on Medium") ✍️
 - Sharing updates on [LinkedIn](https://www.linkedin.com/in/chamidu-supeshala "Chamidu Supeshala's Professional Profile on LinkedIn") 🎀
