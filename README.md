@@ -3,7 +3,7 @@ Hi there 👋👨‍💻
 
 <img src="https://raw.githubusercontent.com/chamidu-supeshala/chamidu-supeshala/master/img/Chamidu Supeshala - Cover.jpg?raw=true" alt="Chamidu Supeshala">
 
-I'm a software development engineer with extensive experience in Java, JavaScript and Python technology stacks. I enjoy writing robust and more scalable code, following the industrial best practices. In my free time, I contribute to open source projects on github and also earned [Arctic Code Vault Contributor ✨](https://archiveprogram.github.com "GitHub Arctic Code Vault Contributer") badge in 2020.
+I'm a software development engineer with extensive experience in Java, JavaScript and Python technology stacks. I enjoy writing robust and more scalable code, following the industrial best practices. In 2020, I was selected to be an inaugural [Arctic Code Vault Contributor ✨](https://archiveprogram.github.com "GitHub Arctic Code Vault Contributer") on GitHub, based on my contribution to open source projects.
 
 Find me around the web 🌎
 -------------------------
