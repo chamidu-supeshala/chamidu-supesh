@@ -1,7 +1,7 @@
 Hi there 👋👨‍💻
 ========================
 
-<img src="img/Chamidu Supeshala - Cover.jpg?raw=true" alt="Chamidu Supeshala">
+<img src="https://raw.githubusercontent.com/chamidu-supeshala/chamidu-supeshala/master/img/Chamidu Supeshala - Cover.jpg?raw=true" alt="Chamidu Supeshala">
 
 I'm a software development engineer with extensive experience in Java, JavaScript and Python technology stacks. I enjoy writing robust and more scalable code, following the industrial best practices.
 
